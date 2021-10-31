@@ -1,0 +1,35 @@
+baseURL: https://st0q.github.io
+canonifyurls: true
+languageCode: ja
+title: 学習メモ
+theme: mini
+paginate: 5
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+# googleAnalytics: UA-123-45
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: dracula
+    tabWidth: 2
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: false
+
+social:
+  github: https://github.com/st0q
+
+params:
+  author: tatsuya.sasaki
+  bio: Software Engineer
+  description: My Blog
+  enableRSS: true
+  enableComments: false
+  # enableGoogleAnalytics: true
+  enableEmoji: true
+  showToc: true
