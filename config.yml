@@ -20,6 +20,9 @@ markup:
     startLevel: 2
     endLevel: 3
     ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
 
 social:
   github: https://github.com/st0q
