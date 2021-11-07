@@ -28,7 +28,7 @@ social:
   github: https://github.com/st0q
 
 params:
-  author: tatsuya.sasaki
+  author: st0q
   bio: Web Engineer
   description: My Blog
   enableRSS: true
