@@ -1,7 +1,7 @@
 baseURL: https://www.st-0q.com
 canonifyurls: true
 languageCode: ja
-title: 学習メモ
+title: 個人ブログ
 theme: mini
 paginate: 5
 
