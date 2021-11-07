@@ -26,7 +26,7 @@ social:
 
 params:
   author: tatsuya.sasaki
-  bio: Software Engineer
+  bio: Web Engineer
   description: My Blog
   enableRSS: true
   enableComments: false
