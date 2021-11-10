@@ -4,12 +4,11 @@ languageCode: ja
 title: 個人ブログ
 theme: mini
 paginate: 5
+googleAnalytics: G-EY2ZS7XBFR
 
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
-
-# googleAnalytics: UA-123-45
 
 markup:
   highlight:
