@@ -32,6 +32,6 @@ params:
   description: My Blog
   enableRSS: true
   enableComments: false
-  # enableGoogleAnalytics: true
+  enableGoogleAnalytics: true
   enableEmoji: true
   showToc: true
