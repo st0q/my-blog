@@ -8,7 +8,7 @@ googleAnalytics: G-EY2ZS7XBFR
 
 hasCJKLanguage: true
 permalinks:
-  posts: /posts/:title/
+  posts: /posts/:slug/
 
 markup:
   highlight:

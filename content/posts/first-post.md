@@ -1,5 +1,6 @@
 ---
 title: "最初の投稿"
+slug: first-post
 date: 2021-11-07T15:47:10+09:00
 tags:
 draft: false
