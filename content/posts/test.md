@@ -1,6 +1,6 @@
 ---
 title: "Test"
-slug: first-post
+slug: test
 date: 2021-10-30T22:14:45+09:00
 draft: true
 tags : ["markdown", "css", "html"]
