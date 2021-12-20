@@ -3,7 +3,7 @@ title: "GitHub Actionsのワークフローファイルをざっくり理解す�
 slug: rough-understanding-github-actions
 date: 2021-11-28T14:41:33+09:00
 with_date: true
-tags: ["github-actions", "CI/CD"]
+tags: ["GitHub Actions", "CI/CD"]
 draft: false
 ---
 
