@@ -1,5 +1,5 @@
 ---
-title: "HugoとGitHub Pagaesでブログを作る"
+title: "HugoとGitHub Pagesでブログを作る"
 slug: create-blog-with-hugo-and-github-pages
 date: 2021-12-20T23:10:15+09:00
 with_date: true
@@ -11,7 +11,7 @@ draft: false
 ## はじめに
 
 できるだけ手間を書けずに気軽にアウトプットできる場所を作ることを目的に、
-本ブログサイトをHugoとGitHub Pagaesを使用して作りました。<br>
+本ブログサイトをHugoとGitHub Pagesを使用して作りました。<br>
 作った時の手順を振り返りを兼ねてまとめました。
 
 同様のブログを作りたいと思った方の参考になれば幸いです！
